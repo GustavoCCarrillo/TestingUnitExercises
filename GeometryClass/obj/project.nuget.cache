@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6tjXNMQaRVZDF6HEXZQNf5w3Ieoy20QUmrdnTUDpllF6yHAAawhDNmTm9vOnaLMKWGtsDSFMSMWeLGg1hPpOTw==",
+  "success": true,
+  "projectFilePath": "D:\\g2c10\\Documents\\source\\repos\\GeometryClass\\GeometryClass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\g2c10\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\g2c10\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

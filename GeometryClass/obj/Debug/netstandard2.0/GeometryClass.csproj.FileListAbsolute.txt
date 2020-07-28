@@ -1,0 +1,9 @@
+D:\g2c10\Documents\source\repos\GeometryClass\bin\Debug\netstandard2.0\GeometryClass.deps.json
+D:\g2c10\Documents\source\repos\GeometryClass\bin\Debug\netstandard2.0\GeometryClass.dll
+D:\g2c10\Documents\source\repos\GeometryClass\bin\Debug\netstandard2.0\GeometryClass.pdb
+D:\g2c10\Documents\source\repos\GeometryClass\obj\Debug\netstandard2.0\GeometryClass.AssemblyInfoInputs.cache
+D:\g2c10\Documents\source\repos\GeometryClass\obj\Debug\netstandard2.0\GeometryClass.AssemblyInfo.cs
+D:\g2c10\Documents\source\repos\GeometryClass\obj\Debug\netstandard2.0\GeometryClass.csproj.CoreCompileInputs.cache
+D:\g2c10\Documents\source\repos\GeometryClass\obj\Debug\netstandard2.0\GeometryClass.dll
+D:\g2c10\Documents\source\repos\GeometryClass\obj\Debug\netstandard2.0\GeometryClass.pdb
+D:\g2c10\Documents\source\repos\GeometryClass\obj\Debug\netstandard2.0\GeometryClass.csprojAssemblyReference.cache
