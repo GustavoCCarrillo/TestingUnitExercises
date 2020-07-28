@@ -1,0 +1,8 @@
+D:\g2c10\Documents\source\repos\isPrime\bin\Debug\netstandard2.0\isPrime.deps.json
+D:\g2c10\Documents\source\repos\isPrime\bin\Debug\netstandard2.0\isPrime.dll
+D:\g2c10\Documents\source\repos\isPrime\bin\Debug\netstandard2.0\isPrime.pdb
+D:\g2c10\Documents\source\repos\isPrime\obj\Debug\netstandard2.0\isPrime.AssemblyInfoInputs.cache
+D:\g2c10\Documents\source\repos\isPrime\obj\Debug\netstandard2.0\isPrime.AssemblyInfo.cs
+D:\g2c10\Documents\source\repos\isPrime\obj\Debug\netstandard2.0\isPrime.csproj.CoreCompileInputs.cache
+D:\g2c10\Documents\source\repos\isPrime\obj\Debug\netstandard2.0\isPrime.dll
+D:\g2c10\Documents\source\repos\isPrime\obj\Debug\netstandard2.0\isPrime.pdb
