@@ -1,0 +1,12 @@
+D:\g2c10\Documents\source\repos\TimeFunction\obj\Debug\netcoreapp3.1\TimeFunction.AssemblyInfoInputs.cache
+D:\g2c10\Documents\source\repos\TimeFunction\obj\Debug\netcoreapp3.1\TimeFunction.AssemblyInfo.cs
+D:\g2c10\Documents\source\repos\TimeFunction\obj\Debug\netcoreapp3.1\TimeFunction.csproj.CoreCompileInputs.cache
+D:\g2c10\Documents\source\repos\TimeFunction\bin\Debug\netcoreapp3.1\TimeFunction.exe
+D:\g2c10\Documents\source\repos\TimeFunction\bin\Debug\netcoreapp3.1\TimeFunction.deps.json
+D:\g2c10\Documents\source\repos\TimeFunction\bin\Debug\netcoreapp3.1\TimeFunction.runtimeconfig.json
+D:\g2c10\Documents\source\repos\TimeFunction\bin\Debug\netcoreapp3.1\TimeFunction.runtimeconfig.dev.json
+D:\g2c10\Documents\source\repos\TimeFunction\bin\Debug\netcoreapp3.1\TimeFunction.dll
+D:\g2c10\Documents\source\repos\TimeFunction\bin\Debug\netcoreapp3.1\TimeFunction.pdb
+D:\g2c10\Documents\source\repos\TimeFunction\obj\Debug\netcoreapp3.1\TimeFunction.dll
+D:\g2c10\Documents\source\repos\TimeFunction\obj\Debug\netcoreapp3.1\TimeFunction.pdb
+D:\g2c10\Documents\source\repos\TimeFunction\obj\Debug\netcoreapp3.1\TimeFunction.genruntimeconfig.cache
