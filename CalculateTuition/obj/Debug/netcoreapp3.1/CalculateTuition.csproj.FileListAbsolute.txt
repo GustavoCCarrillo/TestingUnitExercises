@@ -1,0 +1,13 @@
+D:\g2c10\Documents\source\repos\CalculateTuition\bin\Debug\netcoreapp3.1\CalculateTuition.exe
+D:\g2c10\Documents\source\repos\CalculateTuition\bin\Debug\netcoreapp3.1\CalculateTuition.deps.json
+D:\g2c10\Documents\source\repos\CalculateTuition\bin\Debug\netcoreapp3.1\CalculateTuition.runtimeconfig.json
+D:\g2c10\Documents\source\repos\CalculateTuition\bin\Debug\netcoreapp3.1\CalculateTuition.runtimeconfig.dev.json
+D:\g2c10\Documents\source\repos\CalculateTuition\bin\Debug\netcoreapp3.1\CalculateTuition.dll
+D:\g2c10\Documents\source\repos\CalculateTuition\bin\Debug\netcoreapp3.1\CalculateTuition.pdb
+D:\g2c10\Documents\source\repos\CalculateTuition\obj\Debug\netcoreapp3.1\CalculateTuition.csprojAssemblyReference.cache
+D:\g2c10\Documents\source\repos\CalculateTuition\obj\Debug\netcoreapp3.1\CalculateTuition.AssemblyInfoInputs.cache
+D:\g2c10\Documents\source\repos\CalculateTuition\obj\Debug\netcoreapp3.1\CalculateTuition.AssemblyInfo.cs
+D:\g2c10\Documents\source\repos\CalculateTuition\obj\Debug\netcoreapp3.1\CalculateTuition.csproj.CoreCompileInputs.cache
+D:\g2c10\Documents\source\repos\CalculateTuition\obj\Debug\netcoreapp3.1\CalculateTuition.dll
+D:\g2c10\Documents\source\repos\CalculateTuition\obj\Debug\netcoreapp3.1\CalculateTuition.pdb
+D:\g2c10\Documents\source\repos\CalculateTuition\obj\Debug\netcoreapp3.1\CalculateTuition.genruntimeconfig.cache
