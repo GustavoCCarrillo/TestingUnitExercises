@@ -1,0 +1,13 @@
+D:\g2c10\Documents\source\repos\MathApp\obj\Debug\netcoreapp3.1\MathApp.AssemblyInfoInputs.cache
+D:\g2c10\Documents\source\repos\MathApp\obj\Debug\netcoreapp3.1\MathApp.AssemblyInfo.cs
+D:\g2c10\Documents\source\repos\MathApp\obj\Debug\netcoreapp3.1\MathApp.csproj.CoreCompileInputs.cache
+D:\g2c10\Documents\source\repos\MathApp\bin\Debug\netcoreapp3.1\MathApp.exe
+D:\g2c10\Documents\source\repos\MathApp\bin\Debug\netcoreapp3.1\MathApp.deps.json
+D:\g2c10\Documents\source\repos\MathApp\bin\Debug\netcoreapp3.1\MathApp.runtimeconfig.json
+D:\g2c10\Documents\source\repos\MathApp\bin\Debug\netcoreapp3.1\MathApp.runtimeconfig.dev.json
+D:\g2c10\Documents\source\repos\MathApp\bin\Debug\netcoreapp3.1\MathApp.dll
+D:\g2c10\Documents\source\repos\MathApp\bin\Debug\netcoreapp3.1\MathApp.pdb
+D:\g2c10\Documents\source\repos\MathApp\obj\Debug\netcoreapp3.1\MathApp.dll
+D:\g2c10\Documents\source\repos\MathApp\obj\Debug\netcoreapp3.1\MathApp.pdb
+D:\g2c10\Documents\source\repos\MathApp\obj\Debug\netcoreapp3.1\MathApp.genruntimeconfig.cache
+D:\g2c10\Documents\source\repos\MathApp\obj\Debug\netcoreapp3.1\MathApp.csprojAssemblyReference.cache
