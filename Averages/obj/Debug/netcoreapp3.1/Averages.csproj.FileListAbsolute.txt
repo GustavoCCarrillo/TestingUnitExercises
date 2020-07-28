@@ -1,0 +1,13 @@
+D:\g2c10\Documents\source\repos\Averages\bin\Debug\netcoreapp3.1\Averages.exe
+D:\g2c10\Documents\source\repos\Averages\bin\Debug\netcoreapp3.1\Averages.deps.json
+D:\g2c10\Documents\source\repos\Averages\bin\Debug\netcoreapp3.1\Averages.runtimeconfig.json
+D:\g2c10\Documents\source\repos\Averages\bin\Debug\netcoreapp3.1\Averages.runtimeconfig.dev.json
+D:\g2c10\Documents\source\repos\Averages\bin\Debug\netcoreapp3.1\Averages.dll
+D:\g2c10\Documents\source\repos\Averages\bin\Debug\netcoreapp3.1\Averages.pdb
+D:\g2c10\Documents\source\repos\Averages\obj\Debug\netcoreapp3.1\Averages.csprojAssemblyReference.cache
+D:\g2c10\Documents\source\repos\Averages\obj\Debug\netcoreapp3.1\Averages.AssemblyInfoInputs.cache
+D:\g2c10\Documents\source\repos\Averages\obj\Debug\netcoreapp3.1\Averages.AssemblyInfo.cs
+D:\g2c10\Documents\source\repos\Averages\obj\Debug\netcoreapp3.1\Averages.csproj.CoreCompileInputs.cache
+D:\g2c10\Documents\source\repos\Averages\obj\Debug\netcoreapp3.1\Averages.dll
+D:\g2c10\Documents\source\repos\Averages\obj\Debug\netcoreapp3.1\Averages.pdb
+D:\g2c10\Documents\source\repos\Averages\obj\Debug\netcoreapp3.1\Averages.genruntimeconfig.cache
